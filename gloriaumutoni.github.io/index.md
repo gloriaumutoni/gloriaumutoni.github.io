@@ -25,4 +25,4 @@ with others. This site is a reflection of my growth as a developer.
 
 Feel free to explore and reach out — I would love to connect!
 
-<!-- Testing GitHub Actions Markdown validation workflow -->
+<!--- Testing GitHub Actions Markdown validation workflow --->
