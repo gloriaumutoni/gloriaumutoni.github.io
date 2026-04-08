@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-
 I'm Gloria Umutoni, a student passionate about technology and software development.
 
 ## Skills

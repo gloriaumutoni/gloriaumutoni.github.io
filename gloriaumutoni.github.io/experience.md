@@ -4,8 +4,6 @@ title: Experience
 permalink: /experience/
 ---
 
-# Experience
-
 ## Education
 
 ### Bachelor of Science in Computer Science
