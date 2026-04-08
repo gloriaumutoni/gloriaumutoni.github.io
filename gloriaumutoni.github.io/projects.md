@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects
-
 ## Personal Website
 
 **Tech:** Jekyll, GitHub Pages, Markdown
@@ -21,8 +19,9 @@ The site features multiple pages, a blog, and a custom theme.
 
 **Tech:** Jekyll, Liquid, Markdown
 
-Created a blogging section that dynamically lists posts using Jekyll's Liquid templating engine.
-Posts are written in Markdown and automatically rendered into styled HTML pages.
+Created a blogging section that dynamically lists posts using Jekyll's Liquid
+templating engine. Posts are written in Markdown and automatically rendered
+into styled HTML pages.
 
 ---
 
